@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["luosimao-oss@example.com"]
   spec.summary       = "Ruby SDK for Luosimao SMS API"
   spec.description   = "A Ruby gem for sending SMS via Luosimao (螺丝帽) API"
-  spec.homepage      = "https://github.com/luosimao-oss/luosimao-sms-ruby"
+  spec.homepage      = "https://github.com/luosimao-oss/sms-ruby"
   spec.license       = "MIT"
   spec.required_ruby_version = ">= 2.7.0"
   spec.files         = Dir["lib/**/*", "README.md", "LICENSE", "CHANGELOG.md"]
