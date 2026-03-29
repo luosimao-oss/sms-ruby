@@ -1,0 +1,16 @@
+.bundle/
+vendor/
+*.gem
+*.rbc
+.bundler.lock
+.cfg
+.yardoc
+doc/
+Gemfile.lock
+pkg/
+tmp/
+*.log
+*.swp
+*~
+.DS_Store
+.rspec_status
